@@ -14,4 +14,8 @@ Este aplicativo é um estudo para a utilização de LangChain em conjunto com o 
 
 O usuário insere o texto que deseja traduzir e seleciona o idioma de destino. O aplicativo então utiliza LangChain para formatar a solicitação e enviá-la ao modelo Gemini. Após a tradução ser gerada, o resultado é exibido na interface do usuário desenvolvida com Flask.
 
+## Link do Aplicativo
+
+Você pode acessar o aplicativo através do seguinte link: [LangChain Translator](https://polygotgemini-a209b9a9f9c4.herokuapp.com/)
+
 Este estudo visa demonstrar a viabilidade e a eficácia da integração dessas tecnologias para a criação de um tradutor robusto e acessível. Esperamos que este projeto sirva como base para futuras pesquisas e desenvolvimentos na área de processamento de linguagem natural.
